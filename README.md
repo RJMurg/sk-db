@@ -1,15 +1,15 @@
-# SK
+# SK DB
 
-SK is my personal template for building SvelteKit applications.
+SK DB is my personal template for building SvelteKit applications with databases.
 It is the upstream parent of:
 
-- SK-DB
 - SK-DB-Auth
 
 # Stack
 
 - Svelte 5
 - SvelteKit 2
+- Prisma 7
 - Lucide 1
 - Shadcn 1
 - Tailwind 4
