@@ -13,3 +13,4 @@ eslint.config.js
 .prettierrc
 .github
 bun.lockb
+bun.lock
