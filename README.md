@@ -1,4 +1,5 @@
 ![](https://api.murga.cloud/raster/header?title=SK%20DB&subtitle=My%20SvelteKit%20Template%20With%20DB%20Support)
+
 # SK DB
 
 SK DB is my personal template for building SvelteKit applications with databases.
